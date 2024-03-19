@@ -18,7 +18,7 @@ const About = () => {
         <div className=' max-w-[1240px] mx-auto'>
 
             <div>
-              <h2 className=' font-bold text-3xl text-center'>ABOUT ME</h2>
+              <h2 className=' font-black text-5xl text-center py-2'>ABOUT ME</h2>
               <div>
               </div>
               <p className=' text-center max-w-[700px] mx-auto'>Here you will find more information about me, what I do, and my current skills mostly in terms of programming and technology</p>
@@ -39,11 +39,15 @@ const About = () => {
                 <ul className=' flex flex-wrap md:flex-wrap '>
                   <li className=' font-semibold text-2xl px-4 py-1 m-4 bg-slate-400 rounded-lg'>HTML</li>
                   <li className=' font-semibold text-2xl px-4 py-1 m-4 bg-slate-400 rounded-lg'>CSS</li>
-                  <li className=' font-semibold text-2xl px-4 py-1 m-4 bg-slate-400 rounded-lg'>hello</li>
-                  <li className=' font-semibold text-2xl px-4 py-1 m-4 bg-slate-400 rounded-lg'>hello</li>
-                  <li className=' font-semibold text-2xl px-4 py-1 m-4 bg-slate-400 rounded-lg'>hello</li>
-                  <li className=' font-semibold text-2xl px-4 py-1 m-4 bg-slate-400 rounded-lg'>hello</li>
-                  <li className=' font-semibold text-2xl px-4 py-1 m-4 bg-slate-400 rounded-lg'>hello</li>
+                  <li className=' font-semibold text-2xl px-4 py-1 m-4 bg-slate-400 rounded-lg'>JavaScript</li>
+                  <li className=' font-semibold text-2xl px-4 py-1 m-4 bg-slate-400 rounded-lg'>C++</li>
+                  <li className=' font-semibold text-2xl px-4 py-1 m-4 bg-slate-400 rounded-lg'>java</li>
+                  <li className=' font-semibold text-2xl px-4 py-1 m-4 bg-slate-400 rounded-lg'>MySQL</li>
+                  <li className=' font-semibold text-2xl px-4 py-1 m-4 bg-slate-400 rounded-lg'>ReactJS</li>
+                  <li className=' font-semibold text-2xl px-4 py-1 m-4 bg-slate-400 rounded-lg'>Tailwind CSS</li>
+                  <li className=' font-semibold text-2xl px-4 py-1 m-4 bg-slate-400 rounded-lg'>Canva</li>
+                  <li className=' font-semibold text-2xl px-4 py-1 m-4 bg-slate-400 rounded-lg'>Linux</li>
+                  <li className=' font-semibold text-2xl px-4 py-1 m-4 bg-slate-400 rounded-lg'>Python</li>
                 </ul>
               </div>
 

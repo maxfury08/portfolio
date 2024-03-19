@@ -13,10 +13,10 @@ const Contact = () => {
         backgroundPosition: 'center',
       }}
     >
-    <div className=' min-h-screen w-full py-5'>
+    <div className=' min-h-screen  w-full py-5'>
         <div className=' text-center'>
             <h1 className=' text-5xl font-bold tracking-widest uppercase py-2'>Contact</h1>
-            <p className=' w-[700px] mx-auto font-medium text-center py-4 '>Feel free to Contact me by submitting the form below and I will get back to you as soon as possible</p>
+            <p className=' md:w-[700px] mx-auto font-medium text-center py-4 '>Feel free to Contact me by submitting the form below and I will get back to you as soon as possible</p>
         </div>
         <div className=' px-4 sm:w-2/3 lg:w-1/2 mx-auto'>
 

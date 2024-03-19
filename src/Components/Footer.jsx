@@ -7,7 +7,7 @@ const Footer = () => {
         <div className='flex flex-row w-full justify-between'>
 
 
-            <div className=' w-[700px] py-2 mx-16'>
+            <div className=' w-[700px] py-2 mx-5 md:mx-16'>
                 <h1 className=' font-bold text-2xl py-3'>Ryan Jayawardana</h1>
                 <p>A Frontend focused Web Developer building the Frontend of Websites and Web Applications that leads to the success of the overall product</p>
             </div>
